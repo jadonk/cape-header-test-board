@@ -1,3 +1,7 @@
+# Ignore node.js files
+node_modules/*
+npm-debug.log
+
 # Ignore list for Eagle, a PCB layout tool
 
 # Backup files
