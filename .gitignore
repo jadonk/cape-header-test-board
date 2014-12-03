@@ -1,3 +1,6 @@
+# Ignore Cloud9 IDE files
+.c9/*
+
 # Ignore node.js files
 node_modules/*
 npm-debug.log

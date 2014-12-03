@@ -1,0 +1,23 @@
+{
+  "name": "cape-header-test-board",
+  "description": "Board for testing software systems that use the cape headers",
+  "version": "0.0.0",
+  "dependencies": {
+    "grunt": "0.4.5",
+    "grunt-xmllint": "0.1.1"
+  },
+  "repository" :
+  { 
+    "type": "git",
+    "url": "http://github.com/jadonk/cape-header-test-board.git"
+  },
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "https://raw.githubusercontent.com/jadonk/cape-header-test-board/master/LICENSE.md"
+    }
+  ],
+  "scripts": {
+    "test": "grunt"
+  }
+}
